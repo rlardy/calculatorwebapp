@@ -1,0 +1,38 @@
+.root{
+}
+.App {
+  margin-left: 10%;
+  margin-top: 10%;
+  width: 80%;
+  height: 100%;
+  position: center;
+  color: black;
+}
+.header{
+  height: 20vh;
+}
+.TextField{
+  width: 60%;
+  height: 25vh;
+}
+.MuiButton-contained{
+  height: 40px;
+}
+.MuiInputBase-root{
+  height: 20%;
+}
+.listItem {
+  outline-style: ridge;
+  outline: 2px black solid;
+  width: 80%;
+  text-align: center;
+  padding-top: 20px;
+}
+MuiListItem-gutter {
+  padding-top: 20px;
+}
+.list{
+  outline: 2px black;
+  text-outline: 2px black;
+}
+

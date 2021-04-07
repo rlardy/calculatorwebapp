@@ -1,0 +1,9 @@
+.li {
+    width: 50%;
+    text-align: center;
+    outline: 2px black;
+    padding-top: 20px;
+}
+MuiListItem-gutter {
+    padding-top: 20px;
+}
